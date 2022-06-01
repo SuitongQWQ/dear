@@ -1,0 +1,11 @@
+Model Information:
+* title:	Teddy Bear (3D Scan)
+* source:	https://sketchfab.com/3d-models/teddy-bear-3d-scan-1e96e20ff7b0499ba785688d32a40e47
+* author:	artsydigitalartist (https://sketchfab.com/artsy1064)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Teddy Bear (3D Scan)" (https://sketchfab.com/3d-models/teddy-bear-3d-scan-1e96e20ff7b0499ba785688d32a40e47) by artsydigitalartist (https://sketchfab.com/artsy1064) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
